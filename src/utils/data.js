@@ -176,7 +176,7 @@ import {
   
     email: "sannasimarimuthu21@gmail.com",
     phone: "+91 72720-76763",
-    website: "https://sannasi_portfolio.com",
+    website: "https://sannasi-portfolio.netlify.app/",
   };
   
   export const PROJECTS = [
